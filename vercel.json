@@ -2,7 +2,7 @@
   "version": 2,
   "routes": [
     { "src": "/styles.css", "dest": "/styles.css" },
-    { "src": "/scrypt.js", "dest": "/scrypt.js" },
+    { "src": "/index.js", "dest": "/index.js" },
     { "src": "/(.*)", "dest": "/home.html" }
   ]
 }
